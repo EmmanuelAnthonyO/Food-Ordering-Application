@@ -3,6 +3,8 @@
 ***
 This is a responsive modern powerapps interactive Restaurant Point of Sale that allows restaurant staff (or customers) to view menu items, manage orders, and process submissions.
 
+Use the images below to create the sharepoint lists for the application.
+
 ***
 Food Catalogue List
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/a3b4cb1e-1138-457f-aed2-52285a921861" />
